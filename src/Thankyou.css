@@ -1,0 +1,13 @@
+.thankyoupage {display: none; text-align: center;}
+.result p {color: hsl(25, 97%, 53%);}
+.result {
+    margin: 30px auto;
+    height: 35px;
+    width: 200px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(213, 19%, 18%);
+    filter: brightness(120%);
+}

@@ -1,0 +1,14 @@
+.errormessage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 100%;
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: hsl(12.65, 87.93%, 54.51%);
+    font-weight: 700;
+    transition: all 2s ease;
+}
